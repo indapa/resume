@@ -1,132 +1,104 @@
-Christophe-Marie Duquesne
+Amit R. Indap
 =========================
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+>  Specialties: Bioinformatics, Human Genetics, Python
+
 
 ----
 
-Corporate Experience
+Experience
 --------------------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+Since December 2013 
+:   *Research Fellow for [Reproductive Endocrine Unit, Massacusetts General Hospital](http://www.massgeneral.org/reproductiveendocrine//)*
+    (Boston, Massachusetts).
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+    Investigating the genetic basis of reproductive endocrine disorders using whole exome and genome sequencing
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+January 2009 - October 2013
+:   *PhD in Bioinformatics with
+    [Gabor T. Marth](http://bioinformatics.bc.edu/marthlab/wiki/index.php/Main_Page)* (Boston College Chestnut Hill, Massachusetts).
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+    Utilized existing and wrote novel software to analye data from population scale and family based whole genome and whole exome re-sequencing studies to characterize the contribution of rare variants to human genetic diversity and disease risk. 
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+August 2005 - December 2008 
+:   *Bioinformatics Programmer [Cornell University](http://www.cornell.edu/)*
+    (Ithaca, NY).
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+    Implemented bioinformatic data analysis pipelines for DNA re-sequencing and genotyping datasets for research projects in population and evolutionary genomics which helped facilitate the publication of over 10 papers in leading scientific journals.
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
+February 2001 - July 2002 
+:   *Bioinformatics Programmer at [ Stanford University ](http://www.stanford.edu)* (Stanford,
+    CA).
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+    Implemented informatics pipeline for sequencing and genotyping of candidate genes involved in complex diseases.
 
-Selected Open Source Contributions
+Selected Publications 
 ----------------------------------
 
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
+[Variant discovery in targeted resequencing using whole genome amplified DNA](http://www.ncbi.nlm.nih.gov/pubmed/23837845)
 
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
 
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
 
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
+[The functional spectrum of low-frequency coding variation](http://www.ncbi.nlm.nih.gov/pubmed/21917140)
 
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
 
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
+
+[A map of human genome variation from population-scale sequencing](http://www.ncbi.nlm.nih.gov/pubmed/20981092)
+
+   
+
+
+[Assessing the evolutionary impact of amino acid mutations in the human genome](http://www.ncbi.nlm.nih.gov/pubmed/18516229)
+
+
+
+[Proportionally more deleterious genetic variation in European than in African populations](http://www.ncbi.nlm.nih.gov/pubmed/18288194)
+
+
+
+[Analysis of concordance of different haplotype block partitioning algorithms](http://www.ncbi.nlm.nih.gov/pubmed/16356172)
+
+
+
 
 Education
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+2009-2013
+:   *PhD in Bioinformatics at Boston College*
+    Chestnut Hill , Massachusetts.
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
+    Title: Discovering rare variants from populations to families. Advisor: [Gabor T. Marth
+    ](http://bioinformatics.bc.edu/marthlab/wiki/index.php/Main_Page)
+    Defended in October 2013.
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+2003-2005
+:   *MS in Bioinformatics at Medical College of Wisconsin and Marquette University* 
+	Milwaukee, Wisconsin.
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+    Title: Analysis of concordance of haplotype block partitional algorithms. Advisor: Michael Olivier
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
+1996-2000
+:   *BS in Molecular and Cellularl Biology, minor Computer Science University of Arizona* 	Tucson, Arizona.
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+    Selected as Outstanding Graduating Senior in Department of Molecular and Cellular Biology.
 
-Activities and interests
+Skills
 ------------------------
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+Bioinformatics
+: GATK, MOSAIK, Freebayes, PLINK, samtools, Picard.
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+Programming
+: Python, R, Perl, familiar with Java and C++, [GitHub repo](https://github.com)
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+Molecular Biology
+: PCR, gel electrophoresis.
 
 ----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> <indapa@gmail.com> • [LinkedIn profile](http://www.linkedin.com/in/aindap)
+
