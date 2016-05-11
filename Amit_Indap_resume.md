@@ -26,7 +26,7 @@ Experience
 
 
 ##July 2014 - August 2015
-:   *Genetics Research Scientist Good Start Genetics* Cambridge,
+   *Genetics Research Scientist Good Start Genetics* Cambridge,
     Massachusetts
 
  -   Performed bioinformatic and population genetic analyses on
@@ -40,7 +40,7 @@ Experience
     variants for clinical laboratory directors
 
 ##December 2013 - July 2014
-:   *Research Fellow for Reproductive Endocrine Unit, Massachusetts
+   *Research Fellow for Reproductive Endocrine Unit, Massachusetts
     General Hospital* Boston, Massachusetts
 
 -   Analyzed whole exome sequencing datasets to investigate the
