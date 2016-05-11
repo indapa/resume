@@ -29,65 +29,65 @@ July 2014 - August 2015
 :   *Genetics Research Scientist Good Start Genetics* Cambridge,
     Massachusetts
 
-    -   Performed bioinformatic and population genetic analyses on
+ -   Performed bioinformatic and population genetic analyses on
         Ilumina sequencing data sets on tens of thousands of samples
 
-    -   Evaluated and recommend software for improvements of
-        bioinformatics pipeline using latest methods state-of-the-art
-        methods for variant annotation
+-   Evaluated and recommend software for improvements of
+    bioinformatics pipeline using latest methods state-of-the-art
+    methods for variant annotation
 
-    -   Provide expertise in bioinformatic interpretation of reportable
-        variants for clinical laboratory directors
+-   Provide expertise in bioinformatic interpretation of reportable
+    variants for clinical laboratory directors
 
 December 2013 - July 2014
 :   *Research Fellow for Reproductive Endocrine Unit, Massachusetts
     General Hospital* Boston, Massachusetts
 
-    -   Analyzed whole exome sequencing datasets to investigate the
-        genetic basis of reproductive endocrine disorders
+-   Analyzed whole exome sequencing datasets to investigate the
+    genetic basis of reproductive endocrine disorders
 
-    -   Applied bioinformatic and statistical genomics methods to
-        prioritize potential pathogenic alleles
+-   Applied bioinformatic and statistical genomics methods to
+    prioritize potential pathogenic alleles
 
-    -   Worked in an interdisciplinary group of physicians, genetic
-        counselors, and basic scientists
+-   Worked in an interdisciplinary group of physicians, genetic
+    counselors, and basic scientists
 
 January 2009 - October 2013
 :   *PhD in Bioinformatics with Gabor T. Marth* Boston College Chestnut
     Hill, Massachusetts
 
-    -   Utilized existing and wrote novel software to analyze data from
-        population scale and family based whole genome and whole exome
-        re-sequencing studies to characterize the contribution of rare
-        variants
+-   Utilized existing and wrote novel software to analyze data from
+    population scale and family based whole genome and whole exome
+    re-sequencing studies to characterize the contribution of rare
+    variants
 
-    -   Analyzed capture sequencing data from the 1000 Genomes Pilot
-        Project
+-   Analyzed capture sequencing data from the 1000 Genomes Pilot
+    Project
 
-    -   Identified a potential causal mutation in a Mendelian form of
-        hearing loss
+-   Identified a potential causal mutation in a Mendelian form of
+    hearing loss
 
-    -   Demonstrated the applicability of whole-genome amplified DNA in
-        capture sequencing
+-   Demonstrated the applicability of whole-genome amplified DNA in
+    capture sequencing
 
-    -   Implemented pedigree aware variant calling algorithm using
-        graphical models
+-   Implemented pedigree aware variant calling algorithm using
+    graphical models
 
 August 2005 - December 2008
 :   *Bioinformatics Programmer Cornell University* Ithaca, New York
 
-    -   Implemented bioinformatic data analysis pipelines for DNA
-        re-sequencing and genotyping datasets for research projects in
-        population and evolutionary genomics
+-   Implemented bioinformatic data analysis pipelines for DNA
+    re-sequencing and genotyping datasets for research projects in
+    population and evolutionary genomics
 
-    -   Contributed to the publication of over 10 papers in leading
-        peer-reviewed journals
+-   Contributed to the publication of over 10 papers in leading
+    peer-reviewed journals
 
 February 2001 - July 2002
 :   *Bioinformatics Programmer at Stanford University* Stanford, CA
 
-    -   Implemented for sequencing and genotyping of candidate genes
-        involved in complex diseases
+   -   Implemented for sequencing and genotyping of candidate genes
+    involved in complex diseases
 
 Selected Publications
 ---------------------
@@ -133,21 +133,21 @@ Education
 :   *PhD in Bioinformatics at Boston College* Chestnut Hill,
     Massachusetts
 
-    Title: Discovering rare variants from populations to families.
-    Advisor: Gabor T. Marth
+Title: Discovering rare variants from populations to families.
+Advisor: Gabor T. Marth
 
 2003-2005
 :   *MS in Bioinformatics at Medical College of Wisconsin and Marquette
     University* Milwaukee, Wisconsin
 
-    Title: Analysis of concordance of haplotype block partitioning
-    algorithms. Advisor: Michael Olivier
+Title: Analysis of concordance of haplotype block partitioning
+algorithms. Advisor: Michael Olivier
 
 1996-2000
 :   *BS in Molecular and Cellular Biology, minor Computer Science
     University of Arizona* Tucson, Arizona
 
-    Selected as Outstanding Graduating Senior in Department of Molecular
-    and Cellular Biology
+Selected as Outstanding Graduating Senior in Department of Molecular
+and Cellular Biology
 
 
