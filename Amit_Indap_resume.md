@@ -16,10 +16,11 @@ http://orcid.org/0000-0002-3322-4735
 Experience
 ----------
 Since September 2015
-:   *Research Scientist Human Longevity* San Diego, California
+:   *Research Scientist Human Longevity* San Diego,
+    California
 
     - Implemented variant reporting pipelines for pharmacogenetics and autoimmune 
-        diseases for whole genome and exome reports
+        diseases for HLI whole genome and exome reports
     - Investigated distribution of loss-of-function variants in HLI cohort of samples
 
 
@@ -119,6 +120,8 @@ Bioinformatics : GATK, MOSAIK, Freebayes, PLINK, samtools, Picard
 Programming : Python, R, Perl, familiar with Java and C++
 
 Databases : MongoDB, MySQL
+
+IT/Computer : AWS EC2, S3, SWS, Docker, git
 
 Molecular Biology : PCR, gel electrophoresis
 
