@@ -9,23 +9,30 @@ http://orcid.org/0000-0002-3322-4735
 
 * * * * *
 
-> Specialties: Bioinformatics and Human Genetics
+> Specialties: Bioinformatics,Human Genetics, Variant Curation and Reporting
 
 * * * * *
 
 Experience
 ----------
+Since September 2015
+:   *Research Scientist Human Longevity* San Diego, California
 
-Since July 2014
+    - Implemented variant reporting pipelines for pharmacogenetics and autoimmune 
+        diseases for whole genome and exome reports
+    - Investigated distribution of loss-of-function variants in HLI cohort of samples
+
+
+July 2014 - August 2015
 :   *Genetics Research Scientist Good Start Genetics* Cambridge,
     Massachusetts
 
-    -   Performing bioinformatic and population genetic analyses on
+    -   Performed bioinformatic and population genetic analyses on
         Ilumina sequencing data sets on tens of thousands of samples
 
-    -   Evaluate and recommend software for improvements of
+    -   Evaluated and recommend software for improvements of
         bioinformatics pipeline using latest methods state-of-the-art
-        methods
+        methods for variant annotation
 
     -   Provide expertise in bioinformatic interpretation of reportable
         variants for clinical laboratory directors
