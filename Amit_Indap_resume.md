@@ -21,6 +21,7 @@ Since September 2015
 
     - Implemented variant reporting pipelines for pharmacogenetics and autoimmune 
         diseases for HLI whole genome and exome reports
+    
     - Investigated distribution of loss-of-function variants in HLI cohort of samples
 
 
