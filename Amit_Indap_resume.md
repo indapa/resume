@@ -15,7 +15,7 @@ http://orcid.org/0000-0002-3322-4735
 
 Experience
 ----------
-Since September 2015
+##Since September 2015
 :   *Research Scientist Human Longevity* San Diego,
     California
 
@@ -25,7 +25,7 @@ Since September 2015
 - Investigated distribution of loss-of-function variants in HLI cohort of samples
 
 
-July 2014 - August 2015
+##July 2014 - August 2015
 :   *Genetics Research Scientist Good Start Genetics* Cambridge,
     Massachusetts
 
@@ -39,7 +39,7 @@ July 2014 - August 2015
 -   Provide expertise in bioinformatic interpretation of reportable
     variants for clinical laboratory directors
 
-December 2013 - July 2014
+##December 2013 - July 2014
 :   *Research Fellow for Reproductive Endocrine Unit, Massachusetts
     General Hospital* Boston, Massachusetts
 
@@ -52,7 +52,7 @@ December 2013 - July 2014
 -   Worked in an interdisciplinary group of physicians, genetic
     counselors, and basic scientists
 
-January 2009 - October 2013
+##January 2009 - October 2013
 :   *PhD in Bioinformatics with Gabor T. Marth* Boston College Chestnut
     Hill, Massachusetts
 
@@ -73,7 +73,7 @@ January 2009 - October 2013
 -   Implemented pedigree aware variant calling algorithm using
     graphical models
 
-August 2005 - December 2008
+##August 2005 - December 2008
 :   *Bioinformatics Programmer Cornell University* Ithaca, New York
 
 -   Implemented bioinformatic data analysis pipelines for DNA
