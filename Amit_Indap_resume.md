@@ -19,10 +19,10 @@ Since September 2015
 :   *Research Scientist Human Longevity* San Diego,
     California
 
-    - Implemented variant reporting pipelines for pharmacogenetics and autoimmune 
+- Implemented variant reporting pipelines for pharmacogenetics and autoimmune 
         diseases for HLI whole genome and exome reports
     
-    - Investigated distribution of loss-of-function variants in HLI cohort of samples
+- Investigated distribution of loss-of-function variants in HLI cohort of samples
 
 
 July 2014 - August 2015
