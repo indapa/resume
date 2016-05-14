@@ -15,7 +15,7 @@ http://orcid.org/0000-0002-3322-4735
 
 Experience
 ----------
-##Research Scientist Human Longevity
+##Research Scientist 
 Human Longevity Inc.  San Diego, California
 September 2015 - curren
 
@@ -25,7 +25,7 @@ September 2015 - curren
 - Investigated distribution of loss-of-function variants in HLI cohort of samples
 
 
-##Genetics Research Scientist Good Start Genetics
+##Genetics Research Scientist 
 Good Start Genetics Cambridge, MA
 July 2014 - August 2015
 
