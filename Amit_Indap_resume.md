@@ -3,9 +3,9 @@ Amit R. Indap
 
 indapa@gmail.com
 
-http://www.linkedin.com/in/aindap
+[LinkedIn](http://www.linkedin.com/in/aindap)
 
-http://orcid.org/0000-0002-3322-4735
+[ORCID](http://orcid.org/0000-0002-3322-4735)
 
 * * * * *
 
