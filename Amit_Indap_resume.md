@@ -15,21 +15,21 @@ http://orcid.org/0000-0002-3322-4735
 
 Experience
 ----------
-##Since September 2015
-:   *Research Scientist Human Longevity* San Diego,
-    California
+##Research Scientist Human Longevity
+Human Longevity Inc.  San Diego, California
+September 2015 - curren
 
 - Implemented variant reporting pipelines for pharmacogenetics and autoimmune 
-        diseases for HLI whole genome and exome reports
+        diseases for HLI whole genome and exome reports using Docker and AWS
     
 - Investigated distribution of loss-of-function variants in HLI cohort of samples
 
 
-##July 2014 - August 2015
-   *Genetics Research Scientist Good Start Genetics* Cambridge,
-    Massachusetts
+##Genetics Research Scientist Good Start Genetics
+Good Start Genetics Cambridge, MA
+July 2014 - August 2015
 
- -   Performed bioinformatic and population genetic analyses on
+ -  Performed bioinformatic and population genetic analyses on
         Ilumina sequencing data sets on tens of thousands of samples
 
 -   Evaluated and recommend software for improvements of
@@ -39,10 +39,10 @@ Experience
 -   Provide expertise in bioinformatic interpretation of reportable
     variants for clinical laboratory directors
 
-##December 2013 - July 2014
-   *Research Fellow for Reproductive Endocrine Unit, Massachusetts
-    General Hospital* Boston, Massachusetts
-
+##Research Fellow 
+Massachusetts General Hospital Boston, MA
+December 2013 - July 2014
+   
 -   Analyzed whole exome sequencing datasets to investigate the
     genetic basis of reproductive endocrine disorders
 
@@ -52,9 +52,9 @@ Experience
 -   Worked in an interdisciplinary group of physicians, genetic
     counselors, and basic scientists
 
-##January 2009 - October 2013
-:   *PhD in Bioinformatics with Gabor T. Marth* Boston College Chestnut
-    Hill, Massachusetts
+##Graduate Research Assistant
+Boston College Chestnut Hill, MA
+January 2009 - October 2013
 
 -   Utilized existing and wrote novel software to analyze data from
     population scale and family based whole genome and whole exome
@@ -73,8 +73,9 @@ Experience
 -   Implemented pedigree aware variant calling algorithm using
     graphical models
 
-##August 2005 - December 2008
-:   *Bioinformatics Programmer Cornell University* Ithaca, New York
+##Bioinformatics Programmer 
+Cornell University Ithaca, NY
+August 2005 - December 2008
 
 -   Implemented bioinformatic data analysis pipelines for DNA
     re-sequencing and genotyping datasets for research projects in
@@ -83,10 +84,11 @@ Experience
 -   Contributed to the publication of over 10 papers in leading
     peer-reviewed journals
 
+##Bioinformatics Programmer 
+Stanford University Stanford, CA
 February 2001 - July 2002
-:   *Bioinformatics Programmer at Stanford University* Stanford, CA
-
-   -   Implemented for sequencing and genotyping of candidate genes
+   
+-  Implemented for sequencing and genotyping of candidate genes
     involved in complex diseases
 
 Selected Publications
