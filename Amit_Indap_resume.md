@@ -9,7 +9,7 @@ http://orcid.org/0000-0002-3322-4735
 
 * * * * *
 
-> Specialties: Bioinformatics,Human Genetics, Variant Curation and Reporting
+> Specialties: Bioinformatics, Human Genetics, Variant Curation and Reporting
 
 * * * * *
 
@@ -17,7 +17,7 @@ Experience
 ----------
 ##Research Scientist 
 Human Longevity Inc.  San Diego, California
-September 2015 - curren
+September 2015 - current
 
 - Implemented variant reporting pipelines for pharmacogenetics and autoimmune 
         diseases for HLI whole genome and exome reports using Docker and AWS
