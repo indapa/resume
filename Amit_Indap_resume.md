@@ -5,7 +5,7 @@ indapa@gmail.com | [LinkedIn](http://www.linkedin.com/in/aindap) | [ORCID](http:
 
 * * * * *
 
-> Specialties: Bioinformatics, Human Genetics, Variant Curation and Reporting
+> Specialties: Bioinformatics, NGS Data Analysis
 
 * * * * *
 
