@@ -5,15 +5,25 @@ indapa@gmail.com | [LinkedIn](http://www.linkedin.com/in/aindap) | [ORCID](http:
 
 * * * * *
 
-> Specialties: Bioinformatics, Human Genetics, Variant Reporting and Curation
-
+> Specialties: Human Genetics,Bioinformatics, Immunogenomics 
 * * * * *
 
 Experience
 ----------
+
+##Senior Scientist
+Pfizer San Diego, California
+September 2016 - current
+
+- Responsible for bioinformatics analyses in support of cancer and prophylactic vaccine programs
+
+- Implemented diverse repoitoire of analytical pipelines for long-read denovo assembly, RNA-seq, epitope prediction
+
+-Awarded Upjohn Prize in recognition of going above and beyond expected job description responsibilities.
+
 ##Research Scientist 
 Human Longevity Inc.  San Diego, California
-September 2015 - current
+September 2015 - September 2016
 
 - Implementing variant reporting pipelines for pharmacogenetics and autoimmune 
         diseases for HLI whole genome and exome reports using Docker and AWS
@@ -114,13 +124,13 @@ here](http://orcid.org/0000-0002-3322-4735)
 Skills
 ------
 
-Bioinformatics : GATK, MOSAIK, Freebayes, PLINK, samtools, Picard
+Bioinformatics : GATK, MOSAIK, Freebayes, PLINK, samtools, Picard, Illumina Basespace
 
-Programming : Python, R, Perl, familiar with Java and C++
+Programming : Python, R (Shiny, tidyverse), Perl, bash shell
 
 Databases : MongoDB, MySQL
 
-IT/Computer : AWS EC2, S3, SWS, Docker, git
+IT/Computer : AWS EC2, S3, Docker, git
 
 Molecular Biology : PCR, gel electrophoresis
 
