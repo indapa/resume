@@ -5,7 +5,7 @@ indapa@gmail.com | [LinkedIn](http://www.linkedin.com/in/aindap)
 
 * * * * *
 
-> Specialties: Human Genetics,Bioinformatics, Immunogenomics 
+> Bioinformatics / Data scientists exploring opportunities to apply data analytics skills outside the biomedical space. 
 * * * * *
 
 Experience
