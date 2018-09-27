@@ -26,7 +26,7 @@ September 2016 - current
         
 - Developed interactive RShiny web applications for exploratory data analysis of epitope prediction data and automation of              laboratory processes
 
--Awarded Upjohn Prize in recognition of going above and beyond expected job description responsibilities.
+- Awarded Upjohn Prize in recognition of going above and beyond expected job description responsibilities.
 
 ## Research Scientist 
 Human Longevity Inc.  San Diego, California
