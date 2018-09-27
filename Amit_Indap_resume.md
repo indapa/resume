@@ -19,6 +19,13 @@ September 2016 - current
 
 - Implemented diverse repoitoire of analytical pipelines for long-read denovo assembly, RNA-seq, epitope prediction
 
+- Identified gene candidates for cell line engineering through the analysis of transcriptome profiling
+
+- Identified antigen candidates for in-vitro and in-vivo testing in support of vaccine development using epitope prediction,
+        transcriptome profiling, and mutation identification
+        
+- Developed interactive RShiny web applications for exploratory data analysis of epitope prediction data and automation of              laboratory processes
+
 -Awarded Upjohn Prize in recognition of going above and beyond expected job description responsibilities.
 
 ## Research Scientist 
@@ -45,7 +52,7 @@ July 2014 - August 2015
 -   Provide expertise in bioinformatic interpretation of reportable
     variants for clinical laboratory directors
 
-##Research Fellow 
+## Research Fellow 
 Massachusetts General Hospital Boston, MA
 December 2013 - July 2014
    
@@ -58,7 +65,7 @@ December 2013 - July 2014
 -   Worked in an interdisciplinary group of physicians, genetic
     counselors, and basic scientists
 
-##Graduate Research Assistant
+## Graduate Research Assistant
 Boston College Chestnut Hill, MA
 January 2009 - October 2013
 
@@ -79,7 +86,7 @@ January 2009 - October 2013
 -   Implemented pedigree aware variant calling algorithm using
     graphical models
 
-##Bioinformatics Programmer 
+## Bioinformatics Programmer 
 Cornell University Ithaca, NY
 August 2005 - December 2008
 
@@ -90,7 +97,7 @@ August 2005 - December 2008
 -   Contributed to the publication of over 10 papers in leading
     peer-reviewed journals
 
-##Bioinformatics Programmer 
+## Bioinformatics Programmer 
 Stanford University Stanford, CA
 February 2001 - July 2002
    
@@ -124,9 +131,11 @@ here](http://orcid.org/0000-0002-3322-4735)
 Skills
 ------
 
-Bioinformatics : GATK, MOSAIK, Freebayes, PLINK, samtools, Picard, Illumina Basespace
+Bioinformatics : Variant calling, Transcriptome analysis, Denovo-assembly 
 
 Programming : Python, R (Shiny, tidyverse), Perl, bash shell
+
+Statistical/Machine Learning Methods : Linear regression, hierarchical clustering, graphical models 
 
 Databases : MongoDB, MySQL
 
