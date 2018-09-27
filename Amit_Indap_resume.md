@@ -11,7 +11,7 @@ indapa@gmail.com | [LinkedIn](http://www.linkedin.com/in/aindap)
 Experience
 ----------
 
-##Senior Scientist
+## Senior Scientist
 Pfizer San Diego, California
 September 2016 - current
 
@@ -21,7 +21,7 @@ September 2016 - current
 
 -Awarded Upjohn Prize in recognition of going above and beyond expected job description responsibilities.
 
-##Research Scientist 
+## Research Scientist 
 Human Longevity Inc.  San Diego, California
 September 2015 - September 2016
 
@@ -31,7 +31,7 @@ September 2015 - September 2016
 - Investigating distribution and frequency of loss-of-function variants in HLI cohort of samples
 
 
-##Genetics Research Scientist 
+## Research Scientist 
 Good Start Genetics Cambridge, MA
 July 2014 - August 2015
 
