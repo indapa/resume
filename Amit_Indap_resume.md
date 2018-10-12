@@ -5,7 +5,7 @@ indapa@gmail.com | [LinkedIn](http://www.linkedin.com/in/aindap)
 
 * * * * *
 
-> Bioinformatic data scientist exploring opportunities to apply data analytics skills outside the biomedical space. 
+> Scientist with experience in human genetics, bioinformatics, and data science exploring opportunities in clinical genomics or (immuno) oncology space. 
 * * * * *
 
 Experience
