@@ -1,7 +1,7 @@
 Amit R. Indap
 =============
 
-indapa@gmail.com | [LinkedIn](http://www.linkedin.com/in/aindap) 
+indapa@gmail.com | [http://www.linkedin.com/in/aindap](http://www.linkedin.com/in/aindap) 
 
 * * * * *
 
