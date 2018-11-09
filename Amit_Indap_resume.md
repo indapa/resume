@@ -135,7 +135,7 @@ Bioinformatics : Variant calling, Transcriptome analysis, Denovo-assembly
 
 Programming : Python, R (Shiny, tidyverse), Perl, bash shell
 
-Statistical/Machine Learning Methods : Linear regression, hierarchical clustering, graphical models 
+Statistical/Machine Learning Methods :  regression, clustering, graphical models 
 
 Databases : MongoDB, MySQL
 
