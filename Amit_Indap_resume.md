@@ -13,12 +13,14 @@ Experience
 
 ## Principal Scientist
 Pfizer Cancer Vaccines and Immunotherapeutics
-San Deigo, California
+
+San Diego, California
 May 2019 - current
 
 ## Senior Scientist
 Pfizer Cancer Vaccines and Immunotherapeutics
-San Deigo, California
+
+San Diego, California
 September 2016 - April 2019
 
 
