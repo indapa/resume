@@ -11,24 +11,21 @@ indapa@gmail.com | [http://www.linkedin.com/in/aindap](http://www.linkedin.com/i
 Experience
 ----------
 
+
+
 ## Principal Scientist
 Pfizer Cancer Vaccines and Immunotherapeutics
 
 San Diego, California
-May 2019 - current
+September 2016 - current
 
-## Senior Scientist
-Pfizer Cancer Vaccines and Immunotherapeutics
-
-San Diego, California
-September 2016 - April 2019
-
+- Promoted from Senior Scientist May 2019
 
 - Responsible for bioinformatics analyses in support of preclincal cancer vaccine programs
 
 - Implemented diverse repoitoire of analytical pipelines for long-read denovo assembly, bulk RNA-seq, epitope prediction
 
-- Identified gene candidates for cell line engineering through the analysis of transcriptome profiling
+- Identified gene candidates for cell line engineering through the analysis of transcriptome profiling and hierarchical clustering
 
 - Identified antigen candidates for in-vitro and in-vivo testing in support of cancer vaccine development using epitope prediction,
         transcriptome profiling, and somatic mutation identification of murine and human data sets
