@@ -11,18 +11,25 @@ indapa@gmail.com | [http://www.linkedin.com/in/aindap](http://www.linkedin.com/i
 Experience
 ----------
 
+## Principal Scientist
+Pfizer Cancer Vaccines and Immunotherapeutics
+San Deigo, California
+May 2019 - current
+
 ## Senior Scientist
-Pfizer San Diego, California
-September 2016 - current
+Pfizer Cancer Vaccines and Immunotherapeutics
+San Deigo, California
+September 2016 - April 2019
 
-- Responsible for bioinformatics analyses in support of cancer and prophylactic vaccine programs
 
-- Implemented diverse repoitoire of analytical pipelines for long-read denovo assembly, RNA-seq, epitope prediction
+- Responsible for bioinformatics analyses in support of preclincal cancer vaccine programs
+
+- Implemented diverse repoitoire of analytical pipelines for long-read denovo assembly, bulk RNA-seq, epitope prediction
 
 - Identified gene candidates for cell line engineering through the analysis of transcriptome profiling
 
-- Identified antigen candidates for in-vitro and in-vivo testing in support of vaccine development using epitope prediction,
-        transcriptome profiling, and mutation identification
+- Identified antigen candidates for in-vitro and in-vivo testing in support of cancer vaccine development using epitope prediction,
+        transcriptome profiling, and somatic mutation identification of murine and human data sets
         
 - Developed interactive RShiny web applications for exploratory data analysis of epitope prediction data and automation of              laboratory processes
 
@@ -131,9 +138,9 @@ here](http://orcid.org/0000-0002-3322-4735)
 Skills
 ------
 
-Bioinformatics : Variant calling, Transcriptome analysis, Denovo-assembly 
+Bioinformatics : Read alignment, Variant calling, Transcriptome analysis, Denovo-assembly 
 
-Programming : Python, R (Shiny, tidyverse), Perl, bash shell
+Programming : Python (Numpy, Pandas), R (Shiny, tidyverse), Perl, bash shell
 
 Statistical/Machine Learning Methods :  regression, clustering, graphical models 
 
