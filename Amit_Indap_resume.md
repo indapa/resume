@@ -23,6 +23,8 @@ September 2016 - current
 
 - Responsible for bioinformatics analyses in support of preclincal cancer vaccine programs
 
+- Responsible for target identification through mining public cancer genomics datasets (TCGA, COSMIC) for cancer vaccine programs
+
 - Implemented diverse repoitoire of analytical pipelines for long-read denovo assembly, bulk RNA-seq, epitope prediction
 
 - Identified gene candidates for cell line engineering through the analysis of transcriptome profiling and hierarchical clustering
@@ -137,7 +139,7 @@ here](http://orcid.org/0000-0002-3322-4735)
 Skills
 ------
 
-Bioinformatics : Read alignment, Variant calling, Transcriptome analysis, Denovo-assembly 
+Bioinformatics : Read alignment, Variant calling, Transcriptome analysis, Denovo-assembly, pipeline development 
 
 Programming : Python (Numpy, Pandas), R (Shiny, tidyverse), Perl, bash shell
 
