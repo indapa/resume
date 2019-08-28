@@ -5,7 +5,7 @@ indapa@gmail.com | [http://www.linkedin.com/in/aindap](http://www.linkedin.com/i
 
 * * * * *
 
-> Scientist with experience in human genetics, bioinformatics, immuno-oncology, and data science exploring opportunities to apply my scientific and quantitiative skills in diagnostics and drug discovery.
+> Scientist with experience in human genetics, bioinformatics, immuno-oncology, and data science exploring opportunities to apply my scientific and quantitative skills in diagnostics and drug discovery.
 * * * * *
 
 Experience
@@ -23,7 +23,7 @@ September 2016 - current
 
 - Responsible for target identification through mining public cancer genomics datasets (TCGA, COSMIC) for cancer vaccine programs
 
-- Implemented diverse repoitoire of analytical pipelines for long-read denovo assembly, bulk RNA-seq, epitope prediction
+- Implemented diverse repertoire of analytical pipelines for long-read denovo assembly, bulk RNA-seq, epitope prediction
 
 - Identified gene candidates for cell line engineering through the analysis of RNAseq transcriptome profiling and hierarchical clustering
 
