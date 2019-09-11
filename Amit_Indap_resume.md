@@ -5,7 +5,7 @@ indapa@gmail.com | [http://www.linkedin.com/in/aindap](http://www.linkedin.com/i
 
 * * * * *
 
-> Scientist with experience in human genetics, bioinformatics, immuno-oncology, and data science exploring opportunities to apply my scientific and quantitative skills in diagnostics and drug discovery.
+> Scientist with experience in human genetics, bioinformatics, immuno-oncology, and data science exploring opportunities to apply my scientific and quantitative skills in the immuno-oncology space.
 * * * * *
 
 Experience
